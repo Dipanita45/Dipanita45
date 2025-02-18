@@ -20,6 +20,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dipanita45.Dipanita45&left_color=lightslategray&right_color=blue&left_text=Profile%20views"  />
 </div>
 
+
+ 📫 How to reach me *dipanitamondal277@gmail.com*
+
 ###
 
 <div align="left">
@@ -57,13 +60,37 @@
 </div>
 
 ###
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+</div>
+<
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susmita0202&show_icons=true&locale=en&layout=compact" alt="susmita0202" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susmita0202&show_icons=true&locale=en" alt="susmita0202" /></p>
+
+
+
+
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dipanita45&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanita45&show_icons=true&locale=en&layout=compact" alt="dipanita45" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanita45&" alt="dipanita45" /></p>
+
 </div>
 
 ###
@@ -80,14 +107,10 @@
   <a href="https://www.linkedin.com/in/dipanita-mondal-6a9257306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="dipanitamondal277@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dipanita45/Dipanita45/output/snake.svg" alt="Snake animation" />
 
 ###
 
