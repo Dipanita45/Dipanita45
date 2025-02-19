@@ -78,7 +78,12 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanita45&show_icons=true&locale=en&layout=compact" alt="dipanita45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanita45&" alt="dipanita45" /></p>
+
+ <div align="center">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dipanita45.Dipanita45&left_color=lightslategray&right_color=blue&left_text=Profile%20views"  />
+
+</div>
 
 </div>
 
