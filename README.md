@@ -81,7 +81,7 @@
 
  <div align="center">
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dipanita45.Dipanita45&left_color=lightslategray&right_color=blue&left_text=Profile%20views"  />
+  
 
 </div>
 
