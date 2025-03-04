@@ -50,7 +50,7 @@
 </div>
 
 ### 
-<h2 align="left">🛠 Language &nbsp; tools</h2>
+<h2 align="left">🛠 Language &amp; tools</h2>
 
 ###
 
