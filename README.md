@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  A passionate frontend developer</h2>
+<h2 align="left">👩‍💻  A passionate frontend  developer</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 </div>
 
 ### 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language &amp; tools</h2>
 
 ###
 
