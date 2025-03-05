@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left" font-weight=500>👩‍💻  A passionate frontend developer</h2>
+<h2 align="left" font-weight=350>👩‍💻  A passionate frontend developer</h2>
 
 ###
 
