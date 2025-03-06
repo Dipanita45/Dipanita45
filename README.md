@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="center" >
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dipanita45.Dipanita45&left_color=lightslategray&right_color=blue&left_text=Profile%20views"  />
 </div>
 
@@ -39,7 +39,7 @@
 ###
 
 ## GSSOC(24 ----EXTD) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<div style='display:flex; align-items:center; gap: 11px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
