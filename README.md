@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanika1402&label=Profile%20views&color=0e75b6&style=flat" alt="nayanika1402" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanita45&label=Profile%20views&color=0e75b6&style=flat" alt="dipanita45" /> </p>
 
 
  📫 How to reach me *dipanitamondal277@gmail.com*
