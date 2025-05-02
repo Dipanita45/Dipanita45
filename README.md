@@ -16,10 +16,6 @@
 
 ###
 
-<div align="center" >
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dipanita45.dipanita45&left_color=lightslategray&right_color=blue&left_text=Profile%20views"  />
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanita45&label=Profile%20views&color=0e75b6&style=flat" alt="dipanita45" /> </p>
 
  📫 How to reach me *dipanitamondal277@gmail.com*
