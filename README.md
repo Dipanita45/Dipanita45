@@ -80,7 +80,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=dipanita45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff9f1c&text_color=ffffff" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanita45&theme=tokyonight&hide_border=true&background=0d1117&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanita45&theme=tokyonight&hide_border=true&background=0d1117&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" />
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
