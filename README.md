@@ -47,7 +47,7 @@
 </div>
   
 ###Holopin Badges
- [![An image of @dipanita45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipanita45)](https://holopin.io/@dipanita45)  
+ [![An image of @dipanita45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipanita45)](https://holopin.io/@dipanita45)
  
 ### 
 <h2 align="left">🛠 Language &amp; tools </h2>
@@ -78,7 +78,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanita45&show_icons=true&locale=en&layout=compact" alt="dipanita45" /></p>
   
 
-![](https://github-readme-stats.shion.dev/api?username=dipanita458369&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=dipanita45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
 
