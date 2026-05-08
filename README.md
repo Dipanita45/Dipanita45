@@ -76,6 +76,8 @@
 
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanita45&show_icons=true&locale=en&layout=compact" alt="dipanita45" /></p>
+  
+  ![](https://github-readme-stats.shion.dev/api?username=dipanita45 &theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
 
