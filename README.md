@@ -87,8 +87,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Dipanita45&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Dipanita45"  />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ff9f1c" />
 </div>
 
 
